@@ -1,17 +1,14 @@
-/* Alterar a cor de fundo do body */
+
 body {
   background-color: #f0f4f8;
   font-family: Arial, sans-serif;
   margin: 20px;
 }
-
-/* Mudar a cor e o tipo de letra dos títulos (h1 e h2) */
 h1, h2 {
   color: #1a365d;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Regras para o bloco <div> */
 div {
   background-color: #ffffff;
   padding: 15px;
