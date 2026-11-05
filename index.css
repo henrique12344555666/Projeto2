@@ -1,0 +1,30 @@
+/* Alterar a cor de fundo do body */
+body {
+  background-color: #f0f4f8;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Mudar a cor e o tipo de letra dos títulos (h1 e h2) */
+h1, h2 {
+  color: #1a365d;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Regras para o bloco <div> */
+div {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  max-width: 300px;
+}
+
+/* Classe .destaque com fundo contrastante e margem personalizada */
+.destaque {
+  background-color: #0056b3;
+  color: #ffffff;
+  padding: 10px 15px;
+  margin: 15px 0;
+  border-radius: 5px;
+  font-weight: bold;
+}
